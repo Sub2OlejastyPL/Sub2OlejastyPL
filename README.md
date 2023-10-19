@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sub2OlejastyPL
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning in school
+- This is my project
+- Hope you enjoy
